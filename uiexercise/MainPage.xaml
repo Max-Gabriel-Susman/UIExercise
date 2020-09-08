@@ -3,8 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="uiexercise.MainPage">
     <StackLayout Margin="20,35,20,20">
-        <ListView ItemsSource="{Binding Monkeys}"
-                  ItemSelected="OnListViewItemSelected"
-                  ItemTapped="OnListViewItemTapped" />
+        <Button Text="Display alert"
+                Clicked="OnDisplayAlertButtonClicked" />
+        <Button Text="Display alert question"
+                Clicked="OnDisplayAlertQuestionButtonClicked" />
     </StackLayout>
 </ContentPage>

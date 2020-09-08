@@ -3,6 +3,7 @@
 /Users/MGS/Projects/uiexercise/uiexercise/bin/Debug/netstandard2.0/ref/uiexercise.dll
 /Users/MGS/Projects/uiexercise/uiexercise/bin/Debug/netstandard2.0/uiexercise.pdb
 /Users/MGS/Projects/uiexercise/uiexercise/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/MGS/Projects/uiexercise/uiexercise/obj/Debug/netstandard2.0/ListViewPage.xaml.g.cs
 /Users/MGS/Projects/uiexercise/uiexercise/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/MGS/Projects/uiexercise/uiexercise/obj/Debug/netstandard2.0/StackViewPage.xaml.g.cs
 /Users/MGS/Projects/uiexercise/uiexercise/obj/Debug/netstandard2.0/uiexercise.AssemblyInfoInputs.cache

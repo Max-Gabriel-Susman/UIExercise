@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{05A6C849-1176-42F7-940C-651866A8DAA4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="uiexercise/Monkey.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="uiexercise/MainPage.xaml">
     <Files>
       <File FileName="uiexercise/App.xaml" Line="1" Column="1" />
+      <File FileName="uiexercise/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="uiexercise/StackViewPage.xaml" />
+      <File FileName="uiexercise/StackViewPage.xaml.cs" />
+      <File FileName="uiexercise/Monkey.cs" />
+      <File FileName="uiexercise/ListViewPage.xaml" />
+      <File FileName="uiexercise/ListViewPage.xaml.cs" />
       <File FileName="uiexercise/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="uiexercise/MainPage.xaml" Line="4" Column="33" />
-      <File FileName="uiexercise/StackViewPage.xaml" Line="31" Column="15" />
-      <File FileName="uiexercise/StackViewPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="uiexercise/Monkey.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,16 +18,12 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="MainPage.xaml" expanded="True" />
-              <Node name="Monkey.cs" selected="True" />
+              <Node name="ListViewPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
               <Node name="StackViewPage.xaml" expanded="True" />
             </Node>
-            <Node name="uiexercise.Android" expanded="True">
-              <Node name="Packages" expanded="True" />
-            </Node>
-            <Node name="uiexercise.iOS" expanded="True">
-              <Node name="Packages" expanded="True" />
-            </Node>
+            <Node name="uiexercise.Android" expanded="True" />
+            <Node name="uiexercise.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
