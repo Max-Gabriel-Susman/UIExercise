@@ -7,5 +7,7 @@
                 Clicked="OnDisplayAlertButtonClicked" />
         <Button Text="Display alert question"
                 Clicked="OnDisplayAlertQuestionButtonClicked" />
+        <Button Text="Display action sheet"
+                Clicked="OnDisplayActionSheetButtonClicked" />
     </StackLayout>
 </ContentPage>
